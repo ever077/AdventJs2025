@@ -2,7 +2,7 @@
 
 ![Dificultad](https://img.shields.io/badge/Dificultad-medio-yellow.svg)
 
-Los elfos han encontrado el código cifrado que protege la puerta del taller de Santa 🔐. El PIN tiene 4 dígitos, y está escondido dentro de bloques como estos:
+Los elfos han encontrado el **código cifrado** que protege la puerta del taller de Santa 🔐. El PIN tiene **4 dígitos**, y está escondido dentro de bloques como estos:
 
 ```
 [1++][2-][3+][<]
@@ -15,8 +15,8 @@ Un bloque normal tiene la forma ```[nOP...]```, donde ```n``` es un número (0-9
 
 Las operaciones se aplican en orden al número y son:
 
-* (+) suma 1
-* (-) resta 1
+* ```+``` suma 1
+* ```-``` resta 1
 
 El resultado siempre es un dígito (aritmética mod 10), por ejemplo ```9 + 1 → 0``` y ```0 - 1 → 9```.
 

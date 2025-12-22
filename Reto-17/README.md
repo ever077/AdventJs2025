@@ -1,6 +1,6 @@
 # Reto 17 - El panel de luces navideñas
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 En el Polo Norte han montado un **panel de luces navideñas** 🎄✨ para decorar el taller. Cada luz puede estar encendida con un color o apagada.
 

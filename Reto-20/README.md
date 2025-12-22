@@ -1,6 +1,6 @@
 # Reto 20 - El almacén vertical
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 En el taller de Santa, los elfos están guardando regalos 🎁 en un **almacén vertical**. Los regalos se dejan caer uno a uno por una columna y se van apilando.
 

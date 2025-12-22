@@ -1,6 +1,6 @@
 # Reto 19 - El viaje secreto de papá noel
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 ¡El GPS del trineo se ha vuelto loco! 😱 Papá Noel tiene los **tramos de su viaje**, pero están todos desordenados.
 

@@ -1,6 +1,6 @@
 # Reto 3 - Ayuda al becario
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 En el taller de Santa hay un elfo becario que está aprendiendo a envolver regalos 🎁.
 

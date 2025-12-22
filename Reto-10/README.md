@@ -1,6 +1,6 @@
 # Reto 10 - Profundidad de la magia navideña
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 Profundidad de Magia Navideña
 

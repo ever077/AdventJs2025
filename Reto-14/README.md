@@ -1,6 +1,6 @@
 # Reto 14 - Encuentra el camino al regalo
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 En el Polo Norte, los elfos han simplificado su sistema de almacenamiento para evitar errores.
 Ahora guardan los regalos en un **objeto mágico con profundidad limitada**, donde **cada valor aparece una sola vez**.

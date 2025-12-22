@@ -1,8 +1,8 @@
 # Reto 5 - La cuenta atrás para el despegue
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
-Los elfos tienen un timestamp secreto: es la fecha y hora exacta en la que Papá Noel despega con el trineo 🛷 para repartir regalos por el mundo. Pero en el Polo Norte usan un formato rarísimo para guardar la hora: ```YYYY*MM*DD@HH|mm|ss NP``` (ejemplo: ```2025*12*25@00|00|00 NP```).
+Los elfos tienen un **timestamp secreto**: es la fecha y hora exacta en la que **Papá Noel despega con el trineo** 🛷 para repartir regalos por el mundo. Pero en el Polo Norte usan un formato rarísimo para guardar la hora: ```YYYY*MM*DD@HH|mm|ss NP``` (ejemplo: ```2025*12*25@00|00|00 NP```).
 
 Tu misión es escribir una función que reciba:
 
@@ -11,13 +11,13 @@ Tu misión es escribir una función que reciba:
 
 La función debe devolver:
 
-* Los segundos completos que faltan para el despegue.
+* Los **segundos completos** que faltan para el despegue.
 * Si ya estamos en el despegue exacto → 0.
-* Si el despegue ya ocurrió → un número negativo indicando cuántos segundos han pasado desde entonces.
+* Si el despegue ya ocurrió → un **número negativo** indicando cuántos segundos han pasado desde entonces.
 
-🎯 Reglas
+🎯 **Reglas**
 * Convierte el formato elfo a un timestamp primero. El sufijo ```NP``` indica la hora oficial del Polo Norte (sin husos horarios ni DST), así que puedes tratarlo como si fuera UTC.
-* Usa diferencias en segundos, no en milisegundos.
+* Usa diferencias en **segundos**, no en milisegundos.
 * Redondea siempre hacia abajo (```floor```): solo segundos completos.
 
 **Ejemplos**

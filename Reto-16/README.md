@@ -1,6 +1,6 @@
 # Reto 16 - Empaquetando regalos para santa
 
-![Dificultad](https://img.shields.io/badge/Dificultad-facil-green.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-fácil-green.svg)
 
 Santa quiere repartir regalos de la forma **más eficiente posible** 🎁. Tiene una lista de regalos, cada uno con un **peso**, y un trineo que solo puede cargar hasta un **peso máximo**.
 

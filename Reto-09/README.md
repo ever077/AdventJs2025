@@ -1,6 +1,6 @@
 # Reto 9 - El reno robot aspirador
 
-![Dificultad](https://img.shields.io/badge/Dificultad-dificil-red.svg)
+![Dificultad](https://img.shields.io/badge/Dificultad-difícil-red.svg)
 
 Los elfos han construido un **reno 🦌 robot aspirador** (```@```) para limpiar un poco el taller de cara a las navidades.
 
