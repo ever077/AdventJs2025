@@ -16,15 +16,15 @@ Aunque tiene sus raíces en la religión católica, el adviento se ha convertido
 
 ### Contenido:
 
-* [Reto 1 - Filtrar los regalos defectuosos](./Reto-1/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 2 - Fabrica los juguetes](./Reto-2/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 3 - Ayuda al becario](./Reto-3/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 4 - Descifra el PIN de santa](./Reto-4/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
-* [Reto 5 - La cuenta atrás para el despegue](./Reto-5/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 6 - Emparejando guantes](./Reto-6/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 7 - Montando el árbol](./Reto-7/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
-* [Reto 8 - Encuentra el juguete único](./Reto-8/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
-* [Reto 9 - El reno robot aspirador](./Reto-9/README.md) - Difucultad | $${\color{red}Difícil}$$
+* [Reto 01 - Filtrar los regalos defectuosos](./Reto-01/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 02 - Fabrica los juguetes](./Reto-02/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 03 - Ayuda al becario](./Reto-03/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 04 - Descifra el PIN de santa](./Reto-04/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
+* [Reto 05 - La cuenta atrás para el despegue](./Reto-05/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 06 - Emparejando guantes](./Reto-06/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 07 - Montando el árbol](./Reto-07/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
+* [Reto 08 - Encuentra el juguete único](./Reto-08/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
+* [Reto 09 - El reno robot aspirador](./Reto-09/README.md) - Difucultad | $${\color{red}Difícil}$$
 * [Reto 10 - Profundidad de la magia navideña](./Reto-10/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
 * [Reto 11 - Regalos sin vigilancia](./Reto-11/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
 * [Reto 12 - Batalla de elfos](./Reto-12/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
