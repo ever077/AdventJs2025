@@ -37,6 +37,7 @@ Aunque tiene sus raíces en la religión católica, el adviento se ha convertido
 * [Reto 19 - El viaje secreto de papá noel](./Reto-19/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
 * [Reto 20 - El almacén vertical](./Reto-20/README.md) - Difucultad | $${\color{limegreen}Fácil}$$
 * [Reto 21 - El robot de limpieza](./Reto-21/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
+* [Reto 22 - El laberinto del trineo](./Reto-22/README.md) - Difucultad | $${\color{red}Difícil}$$
 
 ---
 
