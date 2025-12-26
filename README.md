@@ -39,6 +39,7 @@ Aunque tiene sus raíces en la religión católica, el adviento se ha convertido
 * [Reto 21 - El robot de limpieza](./Reto-21/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
 * [Reto 22 - El laberinto del trineo](./Reto-22/README.md) - Difucultad | $${\color{red}Difícil}$$
 * [Reto 23 - Ruta de regalos](./Reto-23/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
+* [Reto 24 - Verifica si los árboles son espejos mágicos](./Reto-24/README.md) - Difucultad | $${\color{Goldenrod}Medio}$$
 ---
 
 ### Tecnologías:
